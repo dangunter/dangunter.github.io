@@ -2,7 +2,7 @@
 
 Welcome to my work homepage.
 
-<img alt="A relatively recent headshot" src="DanGunter-pic-transp.jpg" width="200px">
+<img alt="A relatively recent headshot" src="DanGunter-pic-transp.png" width="150px">
 
 Current projects:
 * [IDAES](https://idaes.org) <a href="https://github.com/idaes/idaes-pse"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
