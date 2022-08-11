@@ -10,6 +10,7 @@ Current projects:
 * [PARETO](https://project-pareto.org) <a href="https://github.com/project-pareto"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
 * [NAWI/WaterTAP](https://www.nawihub.org/knowledge/watertap/) <a href="https://github.com/watertap"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
 * [TrustedCI](https://www.trustedci.org/)
+* Wastewater Resilience
 
 Contact information:
 
