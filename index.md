@@ -1,10 +1,10 @@
-# Welcome
+# Dan Gunter's work homepage
 
-Welcome to my work homepage.
+Welcome to my work homepage. Here's a relatively recent picture of me.
 
 <img alt="A relatively recent headshot" src="DanGunter-pic-transp.png" width="150px">
 
-Current projects:
+My current projects:
 * [IDAES](https://idaes.org) <a href="https://github.com/idaes/idaes-pse"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
 * [DISPATCHES](https://idaes.org/dispatches) <a href="https://github.com/gmlc-dispatches/dispatches"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
 * [PARETO](https://project-pareto.org) <a href="https://github.com/project-pareto"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
@@ -12,7 +12,7 @@ Current projects:
 * [TrustedCI](https://www.trustedci.org/)
 * Wastewater Resilience
 
-Contact information:
+My contact information:
 
 > email: dkgunter at lbl dot gov  
 > M/S 50B-2239  
