@@ -2,6 +2,8 @@
 
 Welcome to my work homepage.
 
+<img alt="A relatively recent headshot" src="DanGunter-pic-transp.jpg" width="200px">
+
 Current projects:
 * [IDAES](https://idaes.org) / [github](https://github.com/idaes/idaes-pse)
 * [DISPATCHES](https://idaes.org/dispatches) / [github](https://github.com/gmlc-dispatches/dispatches)
