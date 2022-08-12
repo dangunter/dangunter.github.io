@@ -2,7 +2,9 @@
 layout: default
 ---
 
-My name is {{ user.name }}. Welcome to my work homepage. Here's a relatively recent picture of me.
+{{month}} {{year}}
+
+Welcome to my work homepage. Here's a relatively recent picture of me.
 
 <img alt="A relatively recent headshot" src="DanGunter-pic-transp.png" width="150px">
 
