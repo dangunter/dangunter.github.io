@@ -2,7 +2,11 @@
 layout: default
 ---
 
-{{month}} {{year}}
+{% assign beatles = "John, Paul, George, Ringo" | split: ", " %}
+
+{% for member in beatles %}
+  {{ member }}
+{% endfor %}
 
 Welcome to my work homepage. Here's a relatively recent picture of me.
 
