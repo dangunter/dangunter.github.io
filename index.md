@@ -2,17 +2,12 @@
 layout: default
 ---
 
-
-
 Welcome to my work homepage. Here's a relatively recent picture of me.
 
 <img alt="A relatively recent headshot" src="DanGunter-pic-transp.png" width="150px">
 
 ## My current projects
 
-{% comment %}
-Add projects and their URLs here (until I figure out data)
-{% endcomment %}
 {% assign project_names = "IDAES, DISPATCHES, PARETO, NAWI/WaterTAP, TrustedCI, Wastewater Resilience" | split: ", " %}
 {% assign project_homes = "idaes.org, idaes.org/dispatches, project-pareto.org, /www.nawihub.org/knowledge/watertap, www.trustedci.org" | split ", " %}
 
