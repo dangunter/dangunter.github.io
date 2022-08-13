@@ -1,9 +1,9 @@
 ---
 layout: default
-last_modified: "13 August 2022"
+modified: 13 August 2022
 ---
 
-<span style="font-size: 80%; color: grey;">Last modified: {{ last_modified }}</span>
+<span style="font-size: 80%; color: grey;">Last modified on {{ page.modified }}</span>
 
 Welcome to my work homepage. Here's a relatively recent picture of me.
 
