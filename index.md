@@ -8,15 +8,11 @@ Welcome to my work homepage. Here's a relatively recent picture of me.
 
 ## My current projects
 
-{% assign project_names = "IDAES, DISPATCHES, PARETO, NAWI/WaterTAP, TrustedCI, Wastewater Resilience" | split: ", " %}
-{% assign project_homes = "idaes.org, idaes.org/dispatches, project-pareto.org, /www.nawihub.org/knowledge/watertap, www.trustedci.org" | split ", " %}
-
-{% assign num = project_names.size %}
-{% assign range = (1..num) %}
 | Project | Links |
 |:--------|:------|
-{% for i in range %}
-| {{project_names[i]}} | <a href="https://{{project_homes[i]}}"><img alt="Homepage" src="home-16px.png"></a> |
+{% for project in site.data.projects %}
+| {{ project.name }} | <a href="https://{{ project.home }}"><img alt="Homepage" src="home-16px.png"></a> 
+ {% if project.github %}<a href="https:://github.com/{{ project.github }}"><img alt="GitHub" src="GitHub-Mark-16px.png">{% endif %}|
 {% endfor %}
 
 <!--
