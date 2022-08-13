@@ -1,15 +1,28 @@
-- name: IDAES 
-  home: "idaes.org"
+- name: IDAES
+  desc: "Institute for the Design of Advanced Energy Systems: A Next Generation Multi-Scale Modeling & Optimization Framework to Support the US Power Industry"
+  home: idaes.org
   github: idaes
 
 - name: DISPATCHES
-  home: "idaes.org/dispatches"
+  desc: "Design Integration and Synthesis Platform to Advance Tightly Coupled Hybrid Energy Systems"
+  home: idaes.org/dispatches
   github: gmlc-dispatches
   
 - name: PARETO
+  desc: The Produced Water Optimization Initiative
   home: project-pareto.org
   github: project-pareto
 
-# NAWI/WaterTAP](https://www.nawihub.org/knowledge/watertap/) <a href="https://github.com/watertap"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
-# * [TrustedCI](https://www.trustedci.org/)
-# * Wastewater Resilience
+- name: NAWI (WaterTAP)
+  desc: "National Alliance for Water Innovation, Water Techno-economic Analysis Platform"
+  home: www.nawihub.org/knowledge/watertap
+  github: watertap
+
+- name: TrustedCI
+  desc: The NSF Cybersecurity Center of Excellence
+  home: www.trustedci.org
+ 
+- name: Wastewater Resilience
+  desc: Wastewater Resilience project
+  home: "#"
+
