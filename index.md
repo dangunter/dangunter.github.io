@@ -10,9 +10,9 @@ Welcome to my work homepage. Here's a relatively recent picture of me.
 
 | Project | Links |
 |:--------|:------|
-{% for project in site.data.projects %}
+{%- for project in site.data.projects -%}
 | {{ project.name }} | <a href="https://{{ project.home }}"><img alt="Homepage" src="home-16px.png"></a> 
- {% if project.github %}<a href="https:://github.com/{{ project.github }}"><img alt="GitHub" src="GitHub-Mark-16px.png">{% endif %}|
+ {%- if project.github %}<a href="https:://github.com/{{ project.github }}"><img alt="GitHub" src="GitHub-Mark-16px.png">{% endif %}|
 {% endfor %}
 
 My contact information:
