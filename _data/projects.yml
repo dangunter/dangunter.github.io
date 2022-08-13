@@ -1,0 +1,15 @@
+- name: IDAES 
+  home: "idaes.org"
+  github: idaes
+
+- name: DISPATCHES
+  home: "idaes.org/dispatches"
+  github: gmlc-dispatches
+  
+- name: PARETO
+  home: project-pareto.org
+  github: project-pareto
+
+# NAWI/WaterTAP](https://www.nawihub.org/knowledge/watertap/) <a href="https://github.com/watertap"><img alt="GitHub" src="GitHub-Mark-16px.png"></a>
+# * [TrustedCI](https://www.trustedci.org/)
+# * Wastewater Resilience
